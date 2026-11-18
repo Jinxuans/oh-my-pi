@@ -6,7 +6,7 @@ This repo contains multiple packages, but **`packages/coding-agent/`** is the pr
 
 **Terminology**: When the user says "agent" or asks "why is agent doing X", they mean the **coding-agent package implementation**, not you (the assistant). The coding-agent is a CLI tool — questions about its behavior refer to code in `packages/coding-agent/`, not your current session.
 
-For OMP Company Mode work, start with the [product overview](docs/company-mode/README.md), then follow its links to the implementation plan and task tracker for the current phase, task status, and evidence.
+For OMP Company Mode work, start with the [product overview](docs/company-mode/README.md), then follow its links to the architecture, implementation plan, and task tracker for the current phase, task status, and evidence.
 
 ### Package Structure
 
